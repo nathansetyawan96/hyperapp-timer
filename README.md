@@ -1,1 +1,3 @@
-# hyperapp-timer
+# Making A Timer Using Hyperapp
+
+`npm install`
