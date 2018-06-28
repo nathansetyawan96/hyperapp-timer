@@ -1,0 +1,22 @@
+{
+  "name": "practice-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "repository": "https://github.com/nathansetyawan96/hyperapp-timer",
+  "author": "nathan.setyawan96@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "hyperapp": "^1.2.6",
+    "picostyle": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.9.3"
+  }
+}
